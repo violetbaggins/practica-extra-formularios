@@ -1,0 +1,14 @@
+body{
+    display:flex;
+    justify-content: center;
+    font-family: sans-serif;
+}
+textarea {
+    color:salmon;
+  }
+input{
+    margin:10px;
+}
+select{
+    width: 300px;
+}
