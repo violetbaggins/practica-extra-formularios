@@ -10,8 +10,8 @@
 * Que cuando el usuario haga click dentro de `textarea` el fondo de la misma sea: *lightseagreen* y el color de la letra sea: *black*
 
 * Que en el `select` se puedan seleccionar **varias opciones**.
-* Que cuando cargue la pagina se vean **todas las `opciones`**.
-* Dentro de las **opciones** del `select`, las que son PARES tengo fondo color *pink*
+* Que cuando cargue la pagina se vean **todas las `opciones`** que estan dentro del `select`.
+* Dentro de las **opciones** del `select`, las que son *PARES* tengan fondo color *pink*
 
 * Que el input `radio button` aparezca con la opcion **Sí** ya seleccionada
 
